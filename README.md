@@ -44,7 +44,7 @@ This program is intended to assist clinicians in selecting the narrowest spectru
   	ANTIBIOTIC SUSCEPTIBILITY
 	PREFERRED                                CONSIDER                       AVOID             
 	Trimethoprim-sulfamethoxazole...S        Levofloxacin........S          Ampicillin................R
-                                                 Ceftriaxone.........S          Amipicillin-sulbactam.....R
+						 Ceftriaxone.........S          Amipicillin-sulbactam.....R
  		                                                                Piperacillin-tazobactam...S
 										Cefazolin.................R                                                                                                             Cefepime..................S
 										Ertapenem.................S
