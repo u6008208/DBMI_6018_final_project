@@ -16,7 +16,7 @@ This program is intended to assist clinicians in selecting the narrowest spectru
 	COLLECTED: 01/01/2000
 	STATUS: FINAL (UPATED 01/04/2000) 
 	
-  GRAM-STAIN: Gram-Negative Rod 
+  	GRAM-STAIN: Gram-Negative Rod 
 	CULTURE / ORGANISM: Morganella morgannii 
         
     
@@ -41,14 +41,14 @@ This program is intended to assist clinicians in selecting the narrowest spectru
 	CULTURE / ORGANISM: Morganella morgannii    
   
   
-  ANTIBIOTIC SUSCEPTIBILITY
-		PREFERRED                                CONSIDER                       AVOID             
-		Trimethoprim-sulfamethoxazole...S        Levofloxacin........S          Ampicillin................R
-                                             Ceftriaxone.........S          Amipicillin-sulbactam.....R
- 		                                                                        Piperacillin-tazobactam...S
-                                          											            Cefazolin.................R                                                                                                             Cefepime..................S
-                                                                            Ertapenem.................S
-       
+  	ANTIBIOTIC SUSCEPTIBILITY
+	PREFERRED                                CONSIDER                       AVOID             
+	Trimethoprim-sulfamethoxazole...S        Levofloxacin........S          Ampicillin................R
+                                                 Ceftriaxone.........S          Amipicillin-sulbactam.....R
+ 		                                                                Piperacillin-tazobactam...S
+										Cefazolin.................R                                                                                                             Cefepime..................S
+										Ertapenem.................S
+										
 --------------------------------------------------------------------------------------------------------------
 TECHNICAL DETAILS
 
